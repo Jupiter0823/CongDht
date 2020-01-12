@@ -1,0 +1,24 @@
+2020-01-08 22:01:41+0800 [-] Removing stale pidfile /home/issac/Downloads/DHTCrawler/twistd.pid
+2020-01-08 22:01:41+0800 [-] Loading collectord.py...
+2020-01-08 22:01:41+0800 [-] Loaded.
+2020-01-08 22:01:41+0800 [-] twistd 19.10.0 (/usr/bin/python3 3.6.9) starting up.
+2020-01-08 22:01:41+0800 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2020-01-08 22:01:41+0800 [-] start run collectord
+2020-01-08 22:01:41+0800 [-] restart task times 1
+2020-01-08 22:01:41+0800 [-] start listen 31000
+2020-01-08 22:01:41+0800 [-] CollectorFactory starting on 31000
+2020-01-08 22:01:41+0800 [-] Starting factory <CollectorFactory object at 0x7fdd2ee9eb70>
+2020-01-08 22:16:48+0800 [-] process exit, msg[b'']
+2020-01-08 22:16:51+0800 [-] restart task times 2
+2020-01-08 22:31:57+0800 [-] process exit, msg[b'']
+2020-01-08 22:32:01+0800 [-] restart task times 3
+2020-01-08 22:47:07+0800 [-] process exit, msg[b'']
+2020-01-08 22:47:11+0800 [-] restart task times 4
+2020-01-08 23:02:17+0800 [-] process exit, msg[b'']
+2020-01-08 23:02:21+0800 [-] restart task times 5
+2020-01-08 23:17:27+0800 [-] process exit, msg[b'']
+2020-01-08 23:17:31+0800 [-] restart task times 6
+2020-01-08 23:32:37+0800 [-] process exit, msg[b'']
+2020-01-08 23:32:41+0800 [-] restart task times 7
+2020-01-08 23:47:47+0800 [-] process exit, msg[b'']
+2020-01-08 23:47:51+0800 [-] restart task times 8
